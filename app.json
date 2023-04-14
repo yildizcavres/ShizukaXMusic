@@ -1,5 +1,5 @@
 {
-    "name": "Shizuka Music Bot",
+    "name": "gold Music Bot",
     "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/798b7275e58d09ac6b095.jpg",
     "keywords": [
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Best_FriendsFor_Ever",
+        "value": "https://t.me/goldsohbettr",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/goldsohbettr",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/yildizcavres/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
