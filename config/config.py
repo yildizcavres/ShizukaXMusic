@@ -34,10 +34,10 @@ GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/yildizcavres/ShizukaXMus
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Kelebekfedkurucuu")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/goldsohbettr")
 
 
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
 AUTO_SUGGESTION_TIME = int(getenv("AUTO_SUGGESTION_TIME", "5400"))
 AUTO_DOWNLOADS_CLEAR = getenv("AUTO_DOWNLOADS_CLEAR", None)
