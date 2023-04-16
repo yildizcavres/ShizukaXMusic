@@ -60,7 +60,7 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/sohbet",
+        "value": "https://t.me/canimdanbirparca",
         "required": false
       },
       "PING_IMG_URL": {
