@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "@Bozkurt_Sohbet",
+        "value": "https://t.me/Bozkurt_Sohbet",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/@Bozkurt_Sohbet",
+        "value": "https://t.me/Bozkurt_Sohbet",
         "required": false
       },
       "PING_IMG_URL": {
