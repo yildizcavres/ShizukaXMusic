@@ -1,5 +1,5 @@
 {
-    "name": "bozkurt Music Bot",
+    "name": "cavres Music Bot",
     "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/798b7275e58d09ac6b095.jpg",
     "keywords": [
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Bozkurt_Sohbet",
+        "value": "https://t.me/goldsohbettr",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Bozkurt_Sohbet",
+        "value": "https://t.me/goldsohbettr",
         "required": false
       },
       "PING_IMG_URL": {
