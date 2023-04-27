@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/heylog34",
+        "value": "https://github.com/cavres3434/ShizukaXMusic",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/heylog34",
+        "value": "https://github.com/cavres3434/ShizukaXMusic",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/yildizcavres/ShizukaXMusic",
+        "value": "https://github.com/cavres3434/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
