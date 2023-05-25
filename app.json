@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/logggg22",
+        "value": "https://t.me/laviniasohbetttt",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/logggg22",
+        "value": "https://t.me/laviniasohbetttt",
         "required": false
       },
       "PING_IMG_URL": {
